@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fasthtml-minimal-bug"
+version = "0.1.0"
+description = ""
+authors = ["Nicolas Symeou <30805864+Incblob@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-fasthtml = "^0.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
